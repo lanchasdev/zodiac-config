@@ -1,0 +1,11 @@
+{
+  "schemaVersion": 1,
+  "ios": {
+    "minRequiredVersion": "1.0.0",
+    "storeUrl": ""
+  },
+  "android": {
+    "minRequiredVersion": "1.1.2",
+    "storeUrl": "https://play.google.com/store/apps/details?id=com.celestialpath.zodiac"
+  }
+}
